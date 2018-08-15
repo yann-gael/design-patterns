@@ -1,7 +1,7 @@
-package src.java.singleton;
+package src.java.utilities;
 
 public class Utilities {
-    static void print(String s)
+    public static void print(String s)
     {
         System.out.println(s);
     }

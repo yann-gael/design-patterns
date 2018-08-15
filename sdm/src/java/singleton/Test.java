@@ -1,5 +1,5 @@
 package src.java.singleton;
-import static src.java.singleton.Utilities.*;
+import static src.java.utilities.Utilities.*;
 public class Test {
     public static void main(String args[])
     {
